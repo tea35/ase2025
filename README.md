@@ -19,7 +19,7 @@
 
 以下の手順でプロジェクトをインストールできます。
 
-1. リポジトリをクローンします。
+1. リポジトリをクローンします.
 
    ```bash
    git clone https://github.com/username/repository.git
